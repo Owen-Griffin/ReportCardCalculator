@@ -1,0 +1,130 @@
+body {
+    height: 100vh;
+    width: 100vw;
+    display: grid;
+    place-items: center;
+    background-color: black;
+    margin: 0px;
+    overflow-y: visible;
+    overflow-x: hidden;
+  }
+
+#mainTitle {
+    text-align: center;
+    color: white;
+    font-family: "Rubik", sans-serif;
+    font-weight: 500;
+    font-size: 32px;
+}
+
+#infoTitle {
+    text-align: center;
+    color: white;
+    font-family: "Rubik", sans-serif;
+    font-weight: 500;
+    font-size: 32px;
+}
+
+#langTitle {
+    text-align: center;
+    color: white;
+    font-family: "Rubik", sans-serif;
+    font-weight: 500;
+    font-size: 32px;
+}
+
+#frenchTitle {
+    text-align: center;
+    color: white;
+    font-family: "Rubik", sans-serif;
+    font-weight: 500;
+    font-size: 32px;
+}
+
+#nativeLangTitle {
+    text-align: center;
+    color: white;
+    font-family: "Rubik", sans-serif;
+    font-weight: 500;
+    font-size: 32px;
+}
+
+#mathTitle {
+    text-align: center;
+    color: white;
+    font-family: "Rubik", sans-serif;
+    font-weight: 500;
+    font-size: 32px;
+}
+
+#scienceTechTitle {
+    text-align: center;
+    color: white;
+    font-family: "Rubik", sans-serif;
+    font-weight: 500;
+    font-size: 32px;
+}
+
+#historyTitle {
+    text-align: center;
+    color: white;
+    font-family: "Rubik", sans-serif;
+    font-weight: 500;
+    font-size: 32px;
+}
+
+#geoTitle {
+    text-align: center;
+    color: white;
+    font-family: "Rubik", sans-serif;
+    font-weight: 500;
+    font-size: 32px;
+}
+
+#peTitle {
+    text-align: center;
+    color: white;
+    font-family: "Rubik", sans-serif;
+    font-weight: 500;
+    font-size: 32px;
+}
+
+#artsTitle {
+    text-align: center;
+    color: white;
+    font-family: "Rubik", sans-serif;
+    font-weight: 500;
+    font-size: 32px;
+}
+
+input {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#calculate {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#result {
+    text-align: center;
+    color: white;
+    font-family: "Rubik", sans-serif;
+    font-weight: 500;
+    font-size: 30px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+#createdBy {
+    text-align: center;
+    color: white;
+    font-family: "Rubik", sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
